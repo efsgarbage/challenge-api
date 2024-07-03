@@ -1,5 +1,5 @@
-# challenge-api
-API rest de cadastro de carros e usuários
+# challenge-api - API rest CRUD de carros e usuários
+Projeto de desafio tecnico
 
 # Pre-requisitos<br/>
 Java 17 & Maven
