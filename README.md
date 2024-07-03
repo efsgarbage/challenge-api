@@ -2,7 +2,8 @@
 API rest de cadastro de carros e usuários
 
 # URL
-https://challenge-api-mq4j.onrender.com
+https://challenge-api-mq4j.onrender.com/api
+
 
 # Features
 
