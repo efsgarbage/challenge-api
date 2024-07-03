@@ -56,7 +56,7 @@ https://challenge-api-mq4j.onrender.com/api/cars/id - Remover um carro do usuár
 
 # Features
 
-#release-sprint1
+release-sprint1
 <br/>
 feature/story_CHALLENGE-S1-1: Criação do projeto de commit inicial<br/>
 feature/story_CHALLENGE-S1-2: conexão com banco de dados, criação de pacotes (domínio e repositórios) e mapeamento Jpa<br/>
