@@ -1,4 +1,4 @@
-# challenge-api - API rest CRUD de carros e usuários
+# API rest CRUD de carros e usuários - challenge-api
 Projeto de desafio tecnico
 
 # Pre-requisitos<br/>
